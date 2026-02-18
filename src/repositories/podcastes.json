@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "videoId": "pQSuQmUfS30",
+        "episode": "CBUM - Flow #319",
+        "category": ["fitness", "saude"]
+    },
+    {
+        "podcastName": "flow",
+        "videoId": "4KDGTdiOV4I",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "categories": ["esporte", "corrida"]
+    },
+    {
+        "podcastName": "xyz",
+        "videoId": "0000000",
+        "episode": "David - Flow #360",
+        "categories": ["esporte", "Eita"]
+    }
+]
